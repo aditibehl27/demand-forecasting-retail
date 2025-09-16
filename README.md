@@ -3,8 +3,7 @@
 Outbound Forecasting Model to optimize capacity and labor planning
 
 # Dataset: 
-Kaggle "Retail Demand Forecasting" dataset.
-3 years of sales data across 100 products.
+1. Kaggle "Retail Demand Forecasting" dataset (3 years of sales data across 100 products)
 
 # Approach:
 1. Data cleaning (handling missing values & duplicates) & feature engineering (holidays, promotions, lags).
@@ -22,8 +21,8 @@ Kaggle "Retail Demand Forecasting" dataset.
 2. Integrate into BI dashboard
 
 # Tech Stack: 
-Languages: Python, pandas, scikit-learn 
-Modeling: Prophet, SQL, Matplotlib
-Visualization: matplotlib, seaborn, plotly  
-Deployment: Streamlit, Flask (optional)  
-Data Handling: SQL, CSV 
+1. Languages: Python, pandas, scikit-learn 
+2. Modeling: Prophet, SQL, Matplotlib
+3. Visualization: matplotlib, seaborn, plotly  
+4. Deployment: Streamlit, Flask (optional)  
+5. Data Handling: SQL, CSV 
